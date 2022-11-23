@@ -1,11 +1,11 @@
-struct Stack<E> {
-    var  items:[E] = []
+struct Stack<Element> {
+    var  items:[Element] = []
     
-    mutating func push(_ item:E) {
+    mutating func push(_ item:Element) {
         items.insert(item, at: 0)
     }
     
-    mutating func pop() -> E {
+    mutating func pop() -> Element {
         items.removeFirst()
     }
     
