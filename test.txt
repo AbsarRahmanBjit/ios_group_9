@@ -22,11 +22,17 @@ func swap(_ a: inout Int,_ b: inout Int) {
 skdjflsdkjf
 
     b = temp //temp will be assigned to b
+
     b = temp  //// member 32ddnshdushdushd
 Dsjdisdshdishdishdihsidhj
 Dsbhdgsudhsudhusdhsuhdshd
 Dshidhsidhisdhishydhsyidiu
 
-//error detection initiated
 
+    b = temp  //// member 32fsfjidsfhiudfhdifhdefkdfkodkfodkfdkofdjfjihh
+ddkodjkesjdijdf
+    b = temp  //// member 32hjudoueouiroer
+kjojuoujopiuopipip
+
+//error detection initiated
 }
