@@ -17,5 +17,7 @@ struct Stack<E> {
 func swap(_ a: inout Int,_ b: inout Int) {
     let temp = a
     a = b
-    b = temp
+    b = temp  //// member 32
+
+//error detection initiated
 }
