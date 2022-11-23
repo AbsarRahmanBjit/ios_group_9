@@ -1,0 +1,12 @@
+struct Stack<E> {
+    var  items:[E] = []
+    
+    mutating func push(_ item:E) {
+        items.insert(item, at: 0)
+    }
+    
+    mutating func pop() -> E {
+        items.removeFirst()
+    }
+    
+}
