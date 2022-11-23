@@ -17,6 +17,13 @@ struct Stack<E> {
 func swap(_ a: inout Int,_ b: inout Int) {
     let temp = a
     a = b
+
     b = temp ??confklict 
 skdjflsdkjf
+
+    b = temp //temp will be assigned to b
+    b = temp  //// member 32
+
+//error detection initiated
+
 }
